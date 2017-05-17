@@ -1,5 +1,6 @@
 language: node_js
 node_js:
-  - "7.9.0"
+  - "7.0"
 script:
+    -"npm start"
     - echo "Hello..."
